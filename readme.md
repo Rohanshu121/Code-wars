@@ -21,7 +21,6 @@ Code-War is a platform designed to simulate a competitive coding environment, si
 - **Queue Management**: RedisQueue
 - **Compiler**: Docker containers for code execution
 - **Authentication**: JWT (JSON Web Tokens)
-- **Deployment**: AWS EC2 (for deployment) & Docker
 
 ## Getting Started
 
